@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74802434861",
+    "firebase_url": "https://testakkk.firebaseio.com",
+    "project_id": "testakkk",
+    "storage_bucket": "testakkk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74802434861:android:2db8ec39fe471d96",
+        "android_client_info": {
+          "package_name": "com.example.tboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74802434861-3iuecct63h446650u98303i8sjcqaeat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_V0PamvhlKuxwrZ9fn_LBCqjLAz3QD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74802434861-3iuecct63h446650u98303i8sjcqaeat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
