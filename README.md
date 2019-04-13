@@ -2,6 +2,7 @@
 Companion App
 
 ---------------INTRODUCING CHEMISE------------------------
+
 A new and revolutionary way to interact with your smartphone
 
 
