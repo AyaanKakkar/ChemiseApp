@@ -1,10 +1,9 @@
 # ChemiseApp
 This is the companion app required for Chemise.
 
-## INTRODUCING CHEMISE
+## Introducing Chemise
 
-A new and revolutionary way to interact with your smartphone
-
+A new and revolutionary way to interact with your smartphone.
 
 This is the companion app for chemise.
 
