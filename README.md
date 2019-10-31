@@ -1,5 +1,7 @@
 # ChemiseApp
 This is the companion app required for Chemise.
+You need to clone this repository and install it to use our
+product.
 
 ## Introducing Chemise
 
